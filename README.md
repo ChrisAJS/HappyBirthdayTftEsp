@@ -37,5 +37,5 @@ Click on the tick top left.
 
 If everything is configured successfully the project will build successfully, yay!
 
-# Code explanation
-
+# Uploading
+Make sure the board is connected, then click the upload button. If evertything goes well, you'll have the new code uploaded to the device!
