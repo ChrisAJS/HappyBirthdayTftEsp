@@ -14,6 +14,14 @@ To get going:
 # Configuring Arduino IDE
 After opening the Arduino IDE, you'll need to install the ESP32 boards.
 
+The Adafruit GFX library needs to be installed. 
+
+Go to Tools -> Libraries...:
+
+![image](https://github.com/ChrisAJS/HappyBirthdayTftEsp/assets/4558817/4eee7dff-7686-4e79-8611-0d8c338d3021)
+
+Install the Adafruit GFX Library.
+
 Go to Tools → Boards → Boards Manager.
 
 In the tab that opens, search for "ESP" and install the "ESP32 Arduino" board set:
@@ -30,4 +38,4 @@ Click on the tick top left.
 If everything is configured successfully the project will build successfully, yay!
 
 # Code explanation
-....
+
