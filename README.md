@@ -36,6 +36,3 @@ Open the happybirthday.ino file in the Arduino IDE.
 Click on the tick top left.
 
 If everything is configured successfully the project will build successfully, yay!
-
-# Code explanation
-
